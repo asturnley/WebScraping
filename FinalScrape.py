@@ -4,7 +4,7 @@ import re
 import datetime
 
 seedset = ["http://toscrape.com/", "http://mentalfloss.com/article/53792/17-ancient-abandoned-websites-still-work",
-           "http://scratchpads.eu/explore/sites-list"]
+           "http://scratchpads.eu/explore/sites-list", "http://www.fabpedigree.com/james/mathmen.htm"]
 
 totallinks = []
 
